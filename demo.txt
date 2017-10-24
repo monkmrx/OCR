@@ -4,3 +4,5 @@ demo.git
 Une demo de git
 
 jajoute des nouveaux pour voir si ca va marcher
+
+amis moi aussi jep eux faire des modif en local
